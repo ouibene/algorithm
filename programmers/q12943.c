@@ -13,6 +13,6 @@ int solution(long num) {
         cnt++;    
         if (num == 1) return cnt;
     }
-    
+
     return -1;
 }
